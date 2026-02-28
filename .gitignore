@@ -1,0 +1,23 @@
+# Sensitive
+*.key
+*.pem
+id_rsa*
+.env
+config/local.conf
+config/secrets.conf
+
+#Logs
+*.log
+logs/
+
+#Temp
+*.tmp
+*.bkp
+*.swp
+*~
+
+#OS-Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+.Trash-*
