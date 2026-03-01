@@ -4,6 +4,7 @@
 id_rsa*
 .env
 config/local.conf
+config/*.conf
 config/secrets.conf
 
 #Logs
