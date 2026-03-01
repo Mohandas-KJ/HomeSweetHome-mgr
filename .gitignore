@@ -24,3 +24,4 @@ logs/
 Thumbs.db
 desktop.ini
 .Trash-*
+controller/config/secrets.conf
