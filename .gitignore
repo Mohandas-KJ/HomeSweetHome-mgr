@@ -3,6 +3,8 @@
 *.pem
 id_rsa*
 .env
+*.conf
+controller/config/*.conf
 config/local.conf
 config/*.conf
 config/secrets.conf
