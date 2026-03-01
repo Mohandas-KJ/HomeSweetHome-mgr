@@ -1,0 +1,9 @@
+[Unit]
+Description=HsH Banner
+
+[Service]
+Type=oneshot
+ExecStart=/home/decoder_linux/Documents/GITS/HomeSweetHome-Mgr/agent/banner.sh
+
+[Install]
+WantedBy=default.target
