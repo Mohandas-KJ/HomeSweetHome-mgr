@@ -2,7 +2,7 @@
 Description=HsH EFI Manager
 
 [Service]
-type=oneshot
+Type=oneshot
 ExecStart=/home/decoder_linux/Documents/GITS/HomeSweetHome-Mgr/agent/efimgr.sh
 
 [Install]
