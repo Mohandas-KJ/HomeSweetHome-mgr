@@ -1,0 +1,9 @@
+[Unit]
+Description=HsH EFI Manager
+
+[Service]
+type=oneshot
+ExecStart=/home/decoder_linux/Documents/GITS/HomeSweetHome-Mgr/agent/efimgr.
+
+[Install]
+WantedBy=multi-user.target
